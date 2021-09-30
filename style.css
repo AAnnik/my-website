@@ -13,3 +13,14 @@ h1{
 .half-width img{
     width: 70%;
 }
+.link-button{
+    text-decoration: none;
+    background-color: maroon;
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: mediumaquamarine;
+    font-weight: 700;
+}
+.background{
+    background-image: linear-gradient(rgb(77, 77, 117) blue);
+}
