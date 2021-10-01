@@ -22,7 +22,7 @@ h1{
     font-weight: 700;
 }
 section{
-   padding-bottom: 40px;
+   padding-bottom: 3px;
    height: 500px;
 }
 p{
@@ -41,5 +41,23 @@ body{
 }
 section experience-area{
     background-origin: none;
-
+}
+.back-highlight{
+    background-color: rgb(50, 20, 221);
+    font-size: 70px    
+}
+.sigle-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+    width: 40%;
+    height: 80%;
+}
+#full-stck{
+    border-left: 7px solid lightslategrey;
+}
+#full-stack{
+    border-left: 7px solid lightslategrey;
+}
+footer p{
+    text-align: center;
 }
